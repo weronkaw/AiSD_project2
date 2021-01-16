@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1610735132 source:d:\c++\sort\main.cpp
+	<cmath>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	<conio.h>
+
